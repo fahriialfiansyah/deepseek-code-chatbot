@@ -8,7 +8,7 @@ git clone https://github.com/fahriialfiansyah/deepseek-code-chatbot.git
 ```
 2. Navigate to the project directory:
 ```shell
-cd gen-ai-deepseek-r1-langchain-ollama
+cd deepseek-code-chatbot
 ```
 3. Create and activate a Python virtual environment:
 ```shell
