@@ -4,7 +4,7 @@ This project builds a local interactive coding assistant using DeepSeek LLM (R1 
 ## Installation Steps
 1. Clone the repository:
 ```shell
-git clone https://github.com/fahriialfiansyah/gen-ai-deepseek-r1-langchain-ollama.git
+git clone https://github.com/fahriialfiansyah/deepseek-code-chatbot.git
 ```
 2. Navigate to the project directory:
 ```shell
